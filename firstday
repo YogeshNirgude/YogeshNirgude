@@ -1,0 +1,16 @@
+//this is use for single comment
+/* 
+this
+is
+for
+multiline comment*/
+#include<stdio.h>
+int main()
+{
+    printf("hey this is my first program");
+    printf("\n here we come on next line");
+    printf("\nnow we can show \\n");//we can use double slash for print slash n
+   printf("\n we can use %d");
+   
+return 0;
+}
